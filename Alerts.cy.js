@@ -1,4 +1,4 @@
-
+//added  simple commands
 
 describe('Alerts learning',function(){
 
